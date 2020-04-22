@@ -1,0 +1,66 @@
+{
+	"name" : "Survey 1",
+	
+	
+		"questions": [
+    	{
+        "question_text": " survey question 1",
+	"surveyName":"Survey 1",
+        "choices": [
+            {
+		"surveyName":"Survey 1",
+                "choice_text": "Text related to text 1",
+        	"count":0     
+	   },
+            {
+	   	"surveyName":"Survey 1",
+                "choice_text": "Text related to text 2",
+        	"count":0     
+	       },
+            {
+        	"surveyName":"Survey 1",
+                "choice_text": "Text related to text 3",
+        	"count":0     
+	    },
+            {
+		"surveyName":"Survey 1",
+                "choice_text": "Text related to text 4",
+        	"count":0     
+	    }
+          ]
+    	}
+    ,
+		{
+        "question_text": " survey question 2 ",
+	"surveyName":"Survey 1",
+        "choices": [
+            {
+		"surveyName":"Survey 1",
+                "choice_text": "Text related to text 1",
+        	"count":0     
+	   },
+            {
+	   	"surveyName":"Survey 1",
+                "choice_text": "Text related to text 2",
+        	"count":0     
+	       },
+            {
+        	"surveyName":"Survey 1",
+                "choice_text": "Text related to text 3",
+        	"count":0     
+	    },
+            {
+		"surveyName":"Survey 1",
+                "choice_text": "Text related to text 4",
+        	"count":0     
+	    }
+        ]
+    }
+
+]
+}
+
+
+
+
+
